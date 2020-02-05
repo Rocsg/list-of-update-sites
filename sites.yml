@@ -500,6 +500,15 @@ sites:
     maintainers:
       - "Petr Sokolov"
 
+  - name: "Fijiyama"
+    id: "Fijiyama"
+    url: "https://sites.imagej.net/Fijiyama/"
+    description: >-
+      A versatile registration tool for 3D multimodal time-lapse monitoring 
+      of biological tissues in Fiji
+    maintainers:
+      - "[Romain Fernandez](https://imagej.net/User:RomainF)"
+
   - name: "FilamentDetector"
     id: "FilamentDetector"
     url: "https://sites.imagej.net/FilamentDetector/"
